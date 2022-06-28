@@ -2,7 +2,9 @@
 
   <a href="https://phish.gg" target="_blank">
     <img alt="phishgg-logo" height="70" alt="Phish.gg Logo" src="https://cdn.phish.gg/logo.png"/>
-    <h2 style="text-align:center;">Phish.gg</h2>
+    <p style="text-align: center;">
+      <h2>Phish.gg</h2>
+    </p>
   </a>
 </p>
 <p align="center">
