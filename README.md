@@ -3,10 +3,10 @@
   <a href="https://phish.gg" target="_blank">
     <img alt="phishgg-logo" height="70" alt="Phish.gg Logo" src="https://cdn.phish.gg/logo.png"/>
   </a>
-  <a href="https://phish.gg" align="center">
-    Phish.gg
-  </a>
 </p>
+<a href="https://phish.gg" align="center">
+  Phish.gg
+</a>
 <p align="center">
     <a href="https://docs.phish.gg">Phish.gg Docs</a>
 </p>
