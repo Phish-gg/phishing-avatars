@@ -5,10 +5,10 @@
   </a>
 </p>
 <a href="https://phish.gg" align="center">
-  Phish.gg
+  <h2><a href="https://phish.gg">Phish.gg</a></h2>
 </a>
 <p align="center">
-    <a href="https://docs.phish.gg">Phish.gg Docs</a>
+  <a href="https://docs.phish.gg">Phish.gg Docs</a>
 </p>
 
 # Phish.gg - Phishing Avatars
