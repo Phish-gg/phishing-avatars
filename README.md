@@ -4,9 +4,6 @@
     <img alt="phishgg-logo" height="70" alt="Phish.gg Logo" src="https://cdn.phish.gg/logo.png"/>
   </a>
 </p>
-<a href="https://phish.gg" align="center">
-  <h2><a href="https://phish.gg">Phish.gg</a></h2>
-</a>
 <p align="center">
   <a href="https://docs.phish.gg">Phish.gg Docs</a>
 </p>
